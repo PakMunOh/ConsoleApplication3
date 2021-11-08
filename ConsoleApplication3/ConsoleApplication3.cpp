@@ -9,6 +9,7 @@ int main()
     std::cout << "Hello World!\n";
     std::cout << "Hello World!\n";
     std::cout << "광렬이 바보\n";
+    std::cout << "광렬이 바보2222\n";
     return 0;
 }
 
